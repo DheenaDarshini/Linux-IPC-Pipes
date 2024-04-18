@@ -22,8 +22,8 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY:N.NAVYA SREE
-REG.NO:212223040138
+DEVELOPED BY:DHEENA DARSHINI KARTHIK DHEEPAN
+REG.NO:212223240030
 ```
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 ```
